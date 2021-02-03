@@ -2228,6 +2228,13 @@
       }
     },
     {
+      "id": "f-bolt~portland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://bolt.miami/bolt2/ptl/gbfs/gbfs.json"
+      }
+    },
+    {
       "id": "f-bolt~washington~dc~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2711,7 +2718,14 @@
       }
     },
     {
-      "id": "f-razor~scooters~~gbfs",
+      "id": "f-razor~portland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://razorapi.net/api/v1/gbfs/Portland/gbfs.json"
+      }
+    },
+    {
+      "id": "f-razor~washington~dc~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://razorapi.net/api/v1/gbfs/Washington%20DC/gbfs.json"
