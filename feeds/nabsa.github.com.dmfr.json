@@ -331,6 +331,13 @@
       }
     },
     {
+      "id": "f-sharedmobility.ch~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://www.sharedmobility.ch/gbfs.json"
+      }
+    },
+    {
       "id": "f-bike~itaú~santiago~gbfs",
       "spec": "gbfs",
       "urls": {
