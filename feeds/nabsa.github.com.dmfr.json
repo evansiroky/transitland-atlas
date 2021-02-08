@@ -2417,6 +2417,13 @@
       }
     },
     {
+      "id": "f-helbiz~richmond~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://helbiz.com"
+      }
+    },
+    {
       "id": "f-helbiz~washington~dc~gbfs",
       "spec": "gbfs",
       "urls": {
