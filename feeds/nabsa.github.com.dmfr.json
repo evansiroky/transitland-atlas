@@ -2448,7 +2448,7 @@
       "id": "f-helbiz~richmond~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://helbiz.com"
+        "gbfs_auto_discovery": "https://api.helbiz.com/admin/reporting/richmond/gbfs/gbfs.json"
       }
     },
     {
