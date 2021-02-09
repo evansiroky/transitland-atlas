@@ -1101,6 +1101,13 @@
       }
     },
     {
+      "id": "f-cyclolib~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.urbansharing.com/cyclolib.fr/gbfs.json"
+      }
+    },
+    {
       "id": "f-donkey~republic~valenciennes~gbfs",
       "spec": "gbfs",
       "urls": {
