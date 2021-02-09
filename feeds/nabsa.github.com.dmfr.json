@@ -1129,6 +1129,20 @@
       }
     },
     {
+      "id": "f-optymo~belfort~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://belfort-gbfs.klervi.net/gbfs/gbfs.json"
+      }
+    },
+    {
+      "id": "f-vcub~bordeaux~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/vcub/gbfs.json"
+      }
+    },
+    {
       "id": "f-vélam~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1210,6 +1224,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/toulouse/gbfs.json"
+      }
+    },
+    {
+      "id": "f-v'lille~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/vlille/gbfs.json"
       }
     },
     {
