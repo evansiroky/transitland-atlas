@@ -1290,6 +1290,13 @@
       }
     },
     {
+      "id": "f-beryl~west~midlands~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.beryl.cc/v2/West_Midlands/gbfs.json"
+      }
+    },
+    {
       "id": "f-co~bikes~gbfs",
       "spec": "gbfs",
       "urls": {
