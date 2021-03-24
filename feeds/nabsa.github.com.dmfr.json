@@ -121,6 +121,20 @@
       }
     },
     {
+      "id": "f-pony~brussels~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/brussels/en/system_information.json"
+      }
+    },
+    {
+      "id": "f-pony~liège~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/liege/en/gbfs.json"
+      }
+    },
+    {
       "id": "f-nextbike~bulgaria~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -187,28 +201,28 @@
       "id": "f-bird~calgary~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/platform-partner/birdcanada/calgary/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/calgary/gbfs.json"
       }
     },
     {
       "id": "f-bird~edmonton~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/platform-partner/birdcanada/edmonton/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/edmonton/gbfs.json"
       }
     },
     {
       "id": "f-bird~ottawa~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/platform-partner/birdcanada/ottawa/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/ottawa/gbfs.json"
       }
     },
     {
       "id": "f-bixi~montreal~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api-core.bixi.com/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.velobixi.com/gbfs/gbfs.json"
       }
     },
     {
@@ -348,21 +362,21 @@
       "id": "f-movo~vitacura~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.movo.me/vitacura"
+        "gbfs_auto_discovery": "https://gbfs.movo.me/v1/vitacura/gbfs.json"
       }
     },
     {
       "id": "f-voom~bogotá~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.movo.me/bogota"
+        "gbfs_auto_discovery": "https://gbfs.movo.me/v1/bogota/gbfs.json"
       }
     },
     {
       "id": "f-voom~medellín~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.movo.me/medellin"
+        "gbfs_auto_discovery": "https://gbfs.movo.me/v1/medellin/gbfs.json"
       }
     },
     {
@@ -545,6 +559,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_fg/gbfs.json"
+      }
+    },
+    {
+      "id": "f-lime~hamburg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/hamburg/gbfs.json"
       }
     },
     {
@@ -758,6 +779,13 @@
       }
     },
     {
+      "id": "f-spin~brühl~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/br%C3%BChl/gbfs"
+      }
+    },
+    {
       "id": "f-spin~cologne~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -786,6 +814,27 @@
       }
     },
     {
+      "id": "f-spin~frechen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/frechen/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~gelsenkirchen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/gelsenkirchen/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~hennef~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/hennef/gbfs"
+      }
+    },
+    {
       "id": "f-spin~herne~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -793,10 +842,45 @@
       }
     },
     {
+      "id": "f-spin~lohmar~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/lohmar/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~mülheim~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/mulheim/gbfs"
+      }
+    },
+    {
       "id": "f-spin~recklinghausen~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/recklinghausen/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~rheinland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/rheinland/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~troisdorf~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/troisdorf/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~wesseling~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/wesseling/gbfs"
       }
     },
     {
@@ -996,6 +1080,13 @@
       }
     },
     {
+      "id": "f-spin~madrid~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/Madrid/gbfs"
+      }
+    },
+    {
       "id": "f-sitycleta~(las~palmas)~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1136,10 +1227,38 @@
       }
     },
     {
+      "id": "f-lime~paris~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/paris/gbfs.json"
+      }
+    },
+    {
       "id": "f-optymo~belfort~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://belfort-gbfs.klervi.net/gbfs/gbfs.json"
+      }
+    },
+    {
+      "id": "f-pony~angers~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/angers/en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-pony~bordeaux~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/bordeaux/en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-pony~paris~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/paris/en/gbfs.json"
       }
     },
     {
@@ -1437,6 +1556,13 @@
       }
     },
     {
+      "id": "f-pony~oxford~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/oxford/en/gbfs.json"
+      }
+    },
+    {
       "id": "f-santander~cycles~brunel~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1455,6 +1581,34 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_uu/gbfs.json"
+      }
+    },
+    {
+      "id": "f-spin~basildon~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/basildon/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~chelmsford~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/chelmsford/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~clacton~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/clacton/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~colchester~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/colchester/gbfs"
       }
     },
     {
@@ -1591,17 +1745,17 @@
       }
     },
     {
-      "id": "f-mol~bubi~hungary~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://nextbike.net/maps/gbfs/v1/nextbike_mb/gbfs.json"
-      }
-    },
-    {
       "id": "f-bird~tel~aviv~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.bird.co/gbfs/tel-aviv/gbfs.json"
+      }
+    },
+    {
+      "id": "f-lime~tel~aviv~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/tel_aviv/gbfs.json"
       }
     },
     {
@@ -1619,24 +1773,10 @@
       }
     },
     {
-      "id": "f-smartbike~(chennai~india)~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_ic/gbfs.json"
-      }
-    },
-    {
       "id": "f-smartbike~(hyderabad~india)~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_hi/gbfs.json"
-      }
-    },
-    {
-      "id": "f-smartbike~(new~delhi~india)~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_in/gbfs.json"
       }
     },
     {
@@ -1738,6 +1878,13 @@
       }
     },
     {
+      "id": "f-lime~rome~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/rome/gbfs.json"
+      }
+    },
+    {
       "id": "f-verona~bike~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1797,7 +1944,7 @@
       "id": "f-movo~guadalajara~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.movo.me/guadalajara"
+        "gbfs_auto_discovery": "https://gbfs.movo.me/v1/guadalajara/gbfs.json"
       }
     },
     {
@@ -1854,6 +2001,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "http://gbfs.openov.nl/ovfiets/gbfs.json"
+      }
+    },
+    {
+      "id": "f-spin~rotterdam~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/rotterdam/gbfs"
       }
     },
     {
@@ -1959,6 +2113,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.bird.co/gbfs/lisbon/gbfs.json"
+      }
+    },
+    {
+      "id": "f-pony~lisbon~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/lisbon/en/gbfs.json"
       }
     },
     {
@@ -2092,13 +2253,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_aventura/gbfs.json"
-      }
-    },
-    {
-      "id": "f-battle~creek~b~cycle~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_battlecreek/gbfs.json"
       }
     },
     {
@@ -2585,17 +2739,17 @@
       }
     },
     {
+      "id": "f-lime~cleveland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/cleveland/gbfs.json"
+      }
+    },
+    {
       "id": "f-lime~detroit~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/detroit/gbfs.json"
-      }
-    },
-    {
-      "id": "f-lime~los~angeles~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/los_angeles/gbfs.json"
       }
     },
     {
@@ -2634,6 +2788,13 @@
       }
     },
     {
+      "id": "f-lime~san~francisco~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/san_francisco/gbfs.json"
+      }
+    },
+    {
       "id": "f-lime~seattle~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2645,6 +2806,27 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v1/gbfs/washington_dc/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~alexandria~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://wrangler-mds-production.herokuapp.com/gbfs/Alexandria/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~oakland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://wrangler-mds-production.herokuapp.com/gbfs/Oakland/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~seattle~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://wrangler-mds-production.herokuapp.com/gbfs/Seattle,%20WA/gbfs.json"
       }
     },
     {
@@ -2732,13 +2914,6 @@
       }
     },
     {
-      "id": "f-nashville~b~cycle~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_nashville/gbfs.json"
-      }
-    },
-    {
       "id": "f-nice~ride~minnesota~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2823,6 +2998,13 @@
       }
     },
     {
+      "id": "f-santa~barbara~bcycle~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_santabarbara/gbfs.json"
+      }
+    },
+    {
       "id": "f-sbu~wolf~ride~bike~share~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2837,10 +3019,59 @@
       }
     },
     {
+      "id": "f-spin~aiken~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/aiken/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~albuquerque~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/albuquerque/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~alexandria~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/alexandria/gbfs"
+      }
+    },
+    {
       "id": "f-spin~ann~arbor~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/ann_arbor/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~arkadelphia~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/arkadelphia/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~arlington~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/arlington/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~asbury~park~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/asbury_park/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~austin~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/austin/gbfs"
       }
     },
     {
@@ -2862,6 +3093,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/boise/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~brookline~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/brookline/gbfs"
       }
     },
     {
@@ -2900,6 +3138,13 @@
       }
     },
     {
+      "id": "f-spin~denver~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": " https://web.spin.pm/api/gbfs/v1/denver/gbfs"
+      }
+    },
+    {
       "id": "f-spin~dayton~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2914,10 +3159,24 @@
       }
     },
     {
+      "id": "f-spin~duke~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/duke/gbfs"
+      }
+    },
+    {
       "id": "f-spin~durham~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/durham/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~edwards~air~force~base~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/edwards_air_force_base/gbfs"
       }
     },
     {
@@ -2928,6 +3187,13 @@
       }
     },
     {
+      "id": "f-spin~fort~pierce~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/fort_pierce/gbfs"
+      }
+    },
+    {
       "id": "f-spin~grand~rapids~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2935,10 +3201,45 @@
       }
     },
     {
+      "id": "f-spin~greenville~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/greenville/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~isla~vista~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/isla_vista/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~jacksonville~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/jacksonville/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~jefferson~city~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/jefferson_city/gbfs"
+      }
+    },
+    {
       "id": "f-spin~kansas~city~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/kansas_city/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~knoxville~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/knoxville/gbfs"
       }
     },
     {
@@ -2953,6 +3254,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/lincoln/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~long~beach~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/long_beach/gbfs"
       }
     },
     {
@@ -2977,6 +3285,27 @@
       }
     },
     {
+      "id": "f-spin~mesa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/mesa/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~milwaukee~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/milwaukee/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~minneapolis~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/minneapolis/gbfs"
+      }
+    },
+    {
       "id": "f-spin~mongomery~county~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2991,6 +3320,27 @@
       }
     },
     {
+      "id": "f-spin~oakland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v2/oakland/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~oakland~university~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/oakland_university/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~ohio~state~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/ohio_state/gbfs"
+      }
+    },
+    {
       "id": "f-spin~omaha~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2998,10 +3348,24 @@
       }
     },
     {
+      "id": "f-spin~orem~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/orem/gbfs"
+      }
+    },
+    {
       "id": "f-spin~orlando~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/orlando/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~phoenix~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/phoenix/gbfs"
       }
     },
     {
@@ -3019,6 +3383,20 @@
       }
     },
     {
+      "id": "f-spin~provo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/provo/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~purdue~university~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/purdue_university/gbfs"
+      }
+    },
+    {
       "id": "f-spin~sacramento~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3026,10 +3404,24 @@
       }
     },
     {
+      "id": "f-spin~salem~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/salem/gbfs"
+      }
+    },
+    {
       "id": "f-spin~salt~lake~city~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/salt_lake_city/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~san~antonio~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_antonio/gbfs"
       }
     },
     {
@@ -3047,10 +3439,31 @@
       }
     },
     {
+      "id": "f-spin~san~jose~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_jose/gbfs"
+      }
+    },
+    {
       "id": "f-spin~san~marcos~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_marcos/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~scottsdale~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/scottsdale/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~south~miami~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/south_miami/gbfs"
       }
     },
     {
@@ -3096,6 +3509,48 @@
       }
     },
     {
+      "id": "f-spin~towson~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/towson/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~troy~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/troy/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~uc~san~diego~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/uc_san_diego/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~university~of~central~florida~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/university_of_central_florida/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~university~of~kentucky~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/university_of_kentucky/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~virginia~tech~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/virginia_tech/gbfs"
+      }
+    },
+    {
       "id": "f-spin~washington~dc~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3110,6 +3565,27 @@
       }
     },
     {
+      "id": "f-spin~white~center~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/white_center/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~wichita~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/wichita/gbfs"
+      }
+    },
+    {
+      "id": "f-spin~winston~salem~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/winston_salem/gbfs"
+      }
+    },
+    {
       "id": "f-start~bike~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3121,13 +3597,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://tuc.publicbikesystem.net/ube/gbfs/v1/"
-      }
-    },
-    {
-      "id": "f-ubike~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "http://ubike.virginia.edu/opendata/gbfs.json"
       }
     },
     {
