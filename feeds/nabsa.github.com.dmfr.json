@@ -782,112 +782,112 @@
       "id": "f-spin~bonn~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/Bonn/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/Bonn/gbfs"
       }
     },
     {
       "id": "f-spin~brühl~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/br%C3%BChl/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/br%C3%BChl/gbfs"
       }
     },
     {
       "id": "f-spin~cologne~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/cologne/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/cologne/gbfs"
       }
     },
     {
       "id": "f-spin~dortmund~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/dortmund/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/dortmund/gbfs"
       }
     },
     {
       "id": "f-spin~dulsburg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/duisburg/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/duisburg/gbfs"
       }
     },
     {
       "id": "f-spin~essen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/essen/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/essen/gbfs"
       }
     },
     {
       "id": "f-spin~frechen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/frechen/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/frechen/gbfs"
       }
     },
     {
       "id": "f-spin~gelsenkirchen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/gelsenkirchen/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/gelsenkirchen/gbfs"
       }
     },
     {
       "id": "f-spin~hennef~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/hennef/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/hennef/gbfs"
       }
     },
     {
       "id": "f-spin~herne~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/herne/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/herne/gbfs"
       }
     },
     {
       "id": "f-spin~lohmar~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/lohmar/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/lohmar/gbfs"
       }
     },
     {
       "id": "f-spin~mülheim~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/mulheim/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/mulheim/gbfs"
       }
     },
     {
       "id": "f-spin~recklinghausen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/recklinghausen/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/recklinghausen/gbfs"
       }
     },
     {
       "id": "f-spin~rheinland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/rheinland/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/rheinland/gbfs"
       }
     },
     {
       "id": "f-spin~troisdorf~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/troisdorf/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/troisdorf/gbfs"
       }
     },
     {
       "id": "f-spin~wesseling~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/wesseling/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/wesseling/gbfs"
       }
     },
     {
@@ -1097,7 +1097,7 @@
       "id": "f-spin~madrid~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/Madrid/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/Madrid/gbfs"
       }
     },
     {
@@ -1580,35 +1580,35 @@
       "id": "f-spin~basildon~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/basildon/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/basildon/gbfs"
       }
     },
     {
       "id": "f-spin~chelmsford~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/chelmsford/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/chelmsford/gbfs"
       }
     },
     {
       "id": "f-spin~clacton~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/clacton/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/clacton/gbfs"
       }
     },
     {
       "id": "f-spin~colchester~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/colchester/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/colchester/gbfs"
       }
     },
     {
       "id": "f-spin~milton~keynes~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/milton_keynes/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/milton_keynes/gbfs"
       }
     },
     {
@@ -1994,13 +1994,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "http://gbfs.openov.nl/ovfiets/gbfs.json"
-      }
-    },
-    {
-      "id": "f-spin~rotterdam~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/rotterdam/gbfs"
       }
     },
     {
@@ -3106,91 +3099,91 @@
       "id": "f-spin~aiken~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/aiken/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/aiken/gbfs"
       }
     },
     {
       "id": "f-spin~albuquerque~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/albuquerque/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/albuquerque/gbfs"
       }
     },
     {
       "id": "f-spin~alexandria~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/alexandria/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/alexandria/gbfs"
       }
     },
     {
       "id": "f-spin~ann~arbor~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/ann_arbor/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/ann_arbor/gbfs"
       }
     },
     {
       "id": "f-spin~arkadelphia~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/arkadelphia/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/arkadelphia/gbfs"
       }
     },
     {
       "id": "f-spin~arlington~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/arlington/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/arlington/gbfs"
       }
     },
     {
       "id": "f-spin~asbury~park~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/asbury_park/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/asbury_park/gbfs"
       }
     },
     {
       "id": "f-spin~atlanta~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/atlanta/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/atlanta/gbfs"
       }
     },
     {
       "id": "f-spin~austin~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/austin/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/austin/gbfs"
       }
     },
     {
       "id": "f-spin~baltimore~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/baltimore/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/baltimore/gbfs.json"
       }
     },
     {
       "id": "f-spin~boise~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/boise/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/boise/gbfs"
       }
     },
     {
       "id": "f-spin~brookline~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/brookline/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/brookline/gbfs"
       }
     },
     {
       "id": "f-spin~charlotte~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/charlotte/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/charlotte/gbfs"
       }
     },
     {
@@ -3204,469 +3197,469 @@
       "id": "f-spin~cleveland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/cleveland/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/cleveland/gbfs"
       }
     },
     {
       "id": "f-spin~columbus~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/columbus/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/columbus/gbfs"
       }
     },
     {
       "id": "f-spin~coral~gables~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/coral_gables/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/coral_gables/gbfs"
       }
     },
     {
       "id": "f-spin~dayton~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/dayton/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/dayton/gbfs"
       }
     },
     {
       "id": "f-spin~denver~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": " https://web.spin.pm/api/gbfs/v1/denver/gbfs"
+        "gbfs_auto_discovery": " https://gbfs.spin.pm/api/gbfs/v1/denver/gbfs"
       }
     },
     {
       "id": "f-spin~detroit~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/detroit/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/detroit/gbfs"
       }
     },
     {
       "id": "f-spin~duke~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/duke/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/duke/gbfs"
       }
     },
     {
       "id": "f-spin~durham~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/durham/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/durham/gbfs"
       }
     },
     {
       "id": "f-spin~edwards~air~force~base~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/edwards_air_force_base/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/edwards_air_force_base/gbfs"
       }
     },
     {
       "id": "f-spin~fayetteville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/fayetteville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/fayetteville/gbfs"
       }
     },
     {
       "id": "f-spin~fort~pierce~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/fort_pierce/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/fort_pierce/gbfs"
       }
     },
     {
       "id": "f-spin~grand~rapids~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/grand_rapids/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/grand_rapids/gbfs"
       }
     },
     {
       "id": "f-spin~greenville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/greenville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/greenville/gbfs"
       }
     },
     {
       "id": "f-spin~isla~vista~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/isla_vista/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/isla_vista/gbfs"
       }
     },
     {
       "id": "f-spin~jacksonville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/jacksonville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/jacksonville/gbfs"
       }
     },
     {
       "id": "f-spin~jefferson~city~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/jefferson_city/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/jefferson_city/gbfs"
       }
     },
     {
       "id": "f-spin~kansas~city~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/kansas_city/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/kansas_city/gbfs"
       }
     },
     {
       "id": "f-spin~knoxville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/knoxville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/knoxville/gbfs"
       }
     },
     {
       "id": "f-spin~lexington~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/lexington/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/lexington/gbfs"
       }
     },
     {
       "id": "f-spin~lincoln~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/lincoln/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/lincoln/gbfs"
       }
     },
     {
       "id": "f-spin~long~beach~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/long_beach/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/long_beach/gbfs"
       }
     },
     {
       "id": "f-spin~los~angeles~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/los_angeles/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/los_angeles/gbfs"
       }
     },
     {
       "id": "f-spin~louisville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/louisville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/louisville/gbfs"
       }
     },
     {
       "id": "f-spin~memphis~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/memphis/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/memphis/gbfs"
       }
     },
     {
       "id": "f-spin~mesa~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/mesa/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/mesa/gbfs"
       }
     },
     {
       "id": "f-spin~milwaukee~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/milwaukee/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/milwaukee/gbfs"
       }
     },
     {
       "id": "f-spin~minneapolis~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/minneapolis/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/minneapolis/gbfs"
       }
     },
     {
       "id": "f-spin~mongomery~county~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/montgomery_county/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/montgomery_county/gbfs"
       }
     },
     {
       "id": "f-spin~nashville~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/nashville/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/nashville/gbfs"
       }
     },
     {
       "id": "f-spin~oakland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v2/oakland/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v2/oakland/gbfs"
       }
     },
     {
       "id": "f-spin~oakland~university~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/oakland_university/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/oakland_university/gbfs"
       }
     },
     {
       "id": "f-spin~ohio~state~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/ohio_state/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/ohio_state/gbfs"
       }
     },
     {
       "id": "f-spin~omaha~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/omaha/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/omaha/gbfs"
       }
     },
     {
       "id": "f-spin~orem~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/orem/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/orem/gbfs"
       }
     },
     {
       "id": "f-spin~orlando~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/orlando/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/orlando/gbfs"
       }
     },
     {
       "id": "f-spin~phoenix~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/phoenix/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/phoenix/gbfs"
       }
     },
     {
       "id": "f-spin~portland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/portland/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/portland/gbfs"
       }
     },
     {
       "id": "f-spin~providence~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/providence/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/providence/gbfs"
       }
     },
     {
       "id": "f-spin~provo~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/provo/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/provo/gbfs"
       }
     },
     {
       "id": "f-spin~purdue~university~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/purdue_university/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/purdue_university/gbfs"
       }
     },
     {
       "id": "f-spin~sacramento~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/sacramento/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/sacramento/gbfs"
       }
     },
     {
       "id": "f-spin~salem~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/salem/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/salem/gbfs"
       }
     },
     {
       "id": "f-spin~salt~lake~city~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/salt_lake_city/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/salt_lake_city/gbfs"
       }
     },
     {
       "id": "f-spin~san~antonio~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_antonio/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/san_antonio/gbfs"
       }
     },
     {
       "id": "f-spin~san~diego~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_diego/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/san_diego/gbfs"
       }
     },
     {
       "id": "f-spin~san~francisco~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_francisco/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/san_francisco/gbfs"
       }
     },
     {
       "id": "f-spin~san~jose~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_jose/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/san_jose/gbfs"
       }
     },
     {
       "id": "f-spin~san~marcos~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/san_marcos/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/san_marcos/gbfs"
       }
     },
     {
       "id": "f-spin~scottsdale~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/scottsdale/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/scottsdale/gbfs"
       }
     },
     {
       "id": "f-spin~south~miami~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/south_miami/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/south_miami/gbfs"
       }
     },
     {
       "id": "f-spin~st~george~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/st_george/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/st_george/gbfs"
       }
     },
     {
       "id": "f-spin~stillwater~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/stillwater/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/stillwater/gbfs"
       }
     },
     {
       "id": "f-spin~st~louis~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/st_louis/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/st_louis/gbfs"
       }
     },
     {
       "id": "f-spin~tallahassee~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/tallahassee/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/tallahassee/gbfs"
       }
     },
     {
       "id": "f-spin~tampa~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/tampa/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/tampa/gbfs"
       }
     },
     {
       "id": "f-spin~tempe~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/tempe/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/tempe/gbfs"
       }
     },
     {
       "id": "f-spin~towson~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/towson/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/towson/gbfs"
       }
     },
     {
       "id": "f-spin~troy~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/troy/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/troy/gbfs"
       }
     },
     {
       "id": "f-spin~uc~san~diego~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/uc_san_diego/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/uc_san_diego/gbfs"
       }
     },
     {
       "id": "f-spin~university~of~central~florida~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/university_of_central_florida/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/university_of_central_florida/gbfs"
       }
     },
     {
       "id": "f-spin~university~of~kentucky~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/university_of_kentucky/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/university_of_kentucky/gbfs"
       }
     },
     {
       "id": "f-spin~virginia~tech~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/virginia_tech/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/virginia_tech/gbfs"
       }
     },
     {
       "id": "f-spin~washington~dc~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/washington_dc/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/washington_dc/gbfs"
       }
     },
     {
       "id": "f-spin~west~sacramento~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/west_sacramento/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/west_sacramento/gbfs"
       }
     },
     {
       "id": "f-spin~white~center~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/white_center/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/white_center/gbfs"
       }
     },
     {
       "id": "f-spin~wichita~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/wichita/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/wichita/gbfs"
       }
     },
     {
       "id": "f-spin~winston~salem~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://web.spin.pm/api/gbfs/v1/winston_salem/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.spin.pm/api/gbfs/v1/winston_salem/gbfs"
       }
     },
     {
