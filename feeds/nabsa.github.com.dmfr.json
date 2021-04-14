@@ -1885,6 +1885,13 @@
       }
     },
     {
+      "id": "f-milan~bikemi~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.urbansharing.com/bikemi.com/gbfs.json"
+      }
+    },
+    {
       "id": "f-verona~bike~gbfs",
       "spec": "gbfs",
       "urls": {
