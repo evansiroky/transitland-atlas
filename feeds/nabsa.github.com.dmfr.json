@@ -1934,13 +1934,6 @@
       }
     },
     {
-      "id": "f-huizi~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://tlc.publicbikesystem.net/ube/gbfs/v1/"
-      }
-    },
-    {
       "id": "f-mibici~guadalajara~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3016,13 +3009,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.hopr.city/api/gbfs/33/"
-      }
-    },
-    {
-      "id": "f-razor~portland~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://razorapi.net/api/v1/gbfs/Portland/gbfs.json"
       }
     },
     {
