@@ -3005,6 +3005,13 @@
       }
     },
     {
+      "id": "f-peacehealth~rides~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://peacehealthrides.com/opendata/gbfs.json"
+      }
+    },
+    {
       "id": "f-rad~sharing~fleet~gbfs",
       "spec": "gbfs",
       "urls": {
