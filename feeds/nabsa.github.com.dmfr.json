@@ -3061,6 +3061,13 @@
       }
     },
     {
+      "id": "f-revel~miami~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.gorevel.com/gbfs/v2/miami/en/gbfs.json"
+      }
+    },
+    {
       "id": "f-rtc~bike~share~gbfs",
       "spec": "gbfs",
       "urls": {
