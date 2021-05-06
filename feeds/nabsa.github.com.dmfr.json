@@ -2634,13 +2634,6 @@
       }
     },
     {
-      "id": "f-grid~bike~share~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://grid.socialbicycles.com/opendata/gbfs.json"
-      }
-    },
-    {
       "id": "f-healthy~ride~pittsburgh~gbfs",
       "spec": "gbfs",
       "urls": {
